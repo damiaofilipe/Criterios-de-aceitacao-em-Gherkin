@@ -81,7 +81,7 @@
 
             Cenário: Finalizar cadastro
             Quando for estiver preenchendo o cadastro
-            E tiber campos vazios
+            E tiver campos vazios
             Então deve exibir mensagem de alerta "Por gentileza, preencher todos os campos"
 
 
